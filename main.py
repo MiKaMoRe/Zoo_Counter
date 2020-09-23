@@ -6,8 +6,8 @@ from PySide2.QtGui import (QBrush, QColor, QConicalGradient, QCursor, QFont,
     QFontDatabase, QIcon, QLinearGradient, QPalette, QPainter, QPixmap,
     QRadialGradient)
 from PySide2.QtWidgets import *
-from test import Ui_MainWindow
-from dialog import Ui_Dialog
+from Test import Ui_MainWindow
+from Dialog import Ui_Dialog
 
 
 
